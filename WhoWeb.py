@@ -16,7 +16,7 @@ banner = r'''
 .-.
      .'   `.           --------------------------------
      :g g   :           | WhoWeB - Scanner - Scan Any web |
-     : o     `.         |       @CODE BY NOVA             |
+     : o     `.         |       @CODE BY @medjahdi             |
      :         ``.       --------------------------------
      :           `.
      :   :       .   `.
